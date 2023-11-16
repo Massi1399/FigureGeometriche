@@ -1,0 +1,6 @@
+#ignore vscode, git, lib, bin and jar
+.vscode/
+.git/
+lib/
+bin/
+*.jar

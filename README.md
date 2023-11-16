@@ -1,3 +1,2 @@
-## FigureGeometriche
+##Figure Geometriche
 Readme di esempio
-*****copia in locale

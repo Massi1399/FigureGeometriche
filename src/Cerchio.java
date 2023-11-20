@@ -25,9 +25,7 @@ public class Cerchio extends Forma {
         return extracted();
     }
 
-    public void setRaggio(double raggio) {
-        this.raggio = raggio;
-    }
+    
 
     private double extracted() {
         return 2*raggio*Math.PI;
